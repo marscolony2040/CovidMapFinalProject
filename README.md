@@ -10,4 +10,4 @@ pip install -r requirements.txt
 in order to be able to import all of the necessary libraries
 
 ## Live Run
-![alt](https://github.com/mosharieff/CovidMap/blob/main/Run.gif)
+![alt](https://github.com/marscolony2040/CovidMapFinalProject/blob/main/Run.gif)
